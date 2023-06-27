@@ -1,3 +1,5 @@
-# Normalizer
-A simple script to turn HTML data into JSON data.
-The script is configured to get Apacher Server Status page source code and to normalize the output to JSON so it can be sent to your SIEM solution
+# Small Scripts
+"When life gives you lemons, you make lemonade"
+"When life gives you tedious missions, you automate them with python"
+
+These are small scripts that made my life easier and hopefully they may help you too!
