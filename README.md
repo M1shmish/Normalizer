@@ -7,3 +7,6 @@ These are small scripts that made my life easier and hopefully they may help you
 
 Contents:
 
+1.norm.py
+
+2.
